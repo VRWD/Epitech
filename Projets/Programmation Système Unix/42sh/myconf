@@ -1,0 +1,10 @@
+alias ne emacs
+alias ll ls -l
+alias la ls -a
+alias lla ls -la
+alias p cd /u/all/$USER/cu/public
+alias r cd /u/all/$USER/cu/rendu
+alias q cd ~/rendu/c/
+alias rm rm -i
+
+prompt <%n@%h>$>|
